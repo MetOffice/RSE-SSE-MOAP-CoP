@@ -14,7 +14,8 @@ interest.
 1. [Join](https://join.slack.com/t/ukrse/signup) the Slack workspace for the
    [Society of Research Software Engineers (RSE)](https://society-rse.org/).
 2. Navigate to the ``#rse-sse-moap-cop`` channel.
-3. Send a direct message to the contact whose details are pinned to the channel.
+3. Send a direct message to the contact whose details are pinned to the channel,
+   requesting to be added to the CoP SharePoint / Team.
 
 ## Resources for members
 

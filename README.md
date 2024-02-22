@@ -15,3 +15,9 @@ interest.
    [Society of Research Software Engineers (RSE)](https://society-rse.org/).
 2. Navigate to the ``#rse-sse-moap-cop`` channel.
 3. Send a direct message to the contact whose details are pinned to the channel.
+
+## Resources for members
+
+* [CoP SharePoint site](https://metoffice.sharepoint.com/sites/RSE-SSEMOAPCoPExt/SitePages/Home.aspx)
+* [CoP Charter](https://metoffice.sharepoint.com/sites/RSE-SSEMOAPCoPExt/External%20Documents/RSE-SSE%20MOAP%20CoP%20Charter.docx?web=1)
+* [Upcoming and past meetings](https://metoffice.sharepoint.com/sites/RSE-SSEMOAPCoPExt/SitePages/Meetings.aspx)
